@@ -1,0 +1,28 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# JS files
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+
+# Web files
+*.html text eol=lf
+*.css text eol=lf
+
+# Documentation
+*.md text eol=lf
+
+# Config files
+.env text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Windows files (use CRLF)
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files (no conversion)
+*.png binary
+*.jpg binary
+*.gif binary
