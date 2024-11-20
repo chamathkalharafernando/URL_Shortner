@@ -221,4 +221,4 @@ The application is responsive and works on:
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, chamadula555@gmail.com or create an issue in the repository.
